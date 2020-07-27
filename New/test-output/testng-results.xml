@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37355" started-at="2020-07-27T03:34:41Z" finished-at="2020-07-27T03:35:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37355" started-at="2020-07-27T03:34:41Z" finished-at="2020-07-27T03:35:18Z">
+      <class name="basics">
+        <test-method status="PASS" signature="ipace_Launch()[pri:0, instance:basics@29f69090]" name="ipace_Launch" is-config="true" duration-ms="26656" started-at="2020-07-27T09:04:41Z" finished-at="2020-07-27T09:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ipace_Launch -->
+        <test-method status="PASS" signature="Loin()[pri:0, instance:basics@29f69090]" name="Loin" duration-ms="10683" started-at="2020-07-27T09:05:08Z" finished-at="2020-07-27T09:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loin -->
+      </class> <!-- basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
